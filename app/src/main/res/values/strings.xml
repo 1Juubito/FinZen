@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Error404Saldo</string>
+    <string name="app_tagline">Controle financeiro premium</string>
+    <string name="capture_service_label">Captura de compras do Error404Saldo</string>
+
+    <!-- App shortcuts (long-press the launcher icon) -->
+    <string name="shortcut_expense_short">Despesa</string>
+    <string name="shortcut_expense_long">Nova despesa</string>
+    <string name="shortcut_income_short">Receita</string>
+    <string name="shortcut_income_long">Nova receita</string>
+    <string name="shortcut_transfer_short">Transferência</string>
+    <string name="shortcut_transfer_long">Nova transferência</string>
+
+    <!-- Home-screen widget -->
+    <string name="widget_balance_title">Saldo total</string>
+    <string name="widget_expense">Despesa</string>
+    <string name="widget_income">Receita</string>
+    <string name="widget_description">Saldo e atalhos rápidos do Error404Saldo</string>
+</resources>
+

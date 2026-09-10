@@ -1,0 +1,5 @@
+# Add project specific ProGuard rules here.
+# Keep Room generated classes
+-keep class * extends androidx.room.RoomDatabase { *; }
+-keep @androidx.room.Entity class * { *; }
+-dontwarn androidx.room.paging.**
